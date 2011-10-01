@@ -1,0 +1,5 @@
+C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\bin\Release\XBMClauncher.exe
+C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\bin\Release\XBMClauncher.pdb
+C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\obj\x86\Release\XBMClauncher.exe
+C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\obj\x86\Release\XBMClauncher.pdb

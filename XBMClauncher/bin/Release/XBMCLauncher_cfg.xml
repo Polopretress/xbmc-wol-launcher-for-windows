@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <wake_on_lan_port>9</wake_on_lan_port>
+  <path>C:\Program Files (x86)\XBMC-eden\XBMC.exe</path>
+  <bring_window_to_front_mode>1</bring_window_to_front_mode>
+  <TopMost>true</TopMost>
+</Config>

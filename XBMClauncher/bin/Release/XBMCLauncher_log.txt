@@ -1,0 +1,6 @@
+10/1/2011 11:29:38 PM
+11:29:38 PM: 11:29:38 PM: XBMCLauncher couldn't find XBMCLauncher_cfg.xml - new one is created.
+11:30:02 PM: 11:30:02 PM: Starting Listener...
+11:30:02 PM: 11:30:02 PM: Now listening on UDP port 9
+11:30:42 PM: 11:30:42 PM: No longer listening on UDP port 9
+11:30:42 PM: 11:30:42 PM: Listener Exited Successfully.

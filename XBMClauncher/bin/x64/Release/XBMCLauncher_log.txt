@@ -1,0 +1,12 @@
+10/1/2011 7:56:04 PM
+7:56:04 PM: 7:56:04 PM: System.InvalidOperationException: There is an error in XML document (7, 10). ---> System.Xml.XmlException: Data at the root level is invalid. Line 7, position 10.
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderConfig.Read2_Config(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderConfig.Read3_Config()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle)
+   at XBMCLauncher.Config.Load(String profile) in C:\Users\Herve\documents\visual studio 2010\Projects\XBMClauncher\XBMClauncher\Program.cs:line 616

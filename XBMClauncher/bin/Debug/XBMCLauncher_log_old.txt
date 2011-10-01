@@ -1,0 +1,6 @@
+10/1/2011 10:57:29 PM
+10:57:29 PM: 10:57:29 PM: Configuration loaded
+10:57:29 PM: 10:57:29 PM: Starting Listener...
+10:57:29 PM: 10:57:29 PM: Now listening on UDP port 9
+10:59:41 PM: 10:59:41 PM: No longer listening on UDP port 9
+10:59:41 PM: 10:59:41 PM: Listener Exited Successfully.
